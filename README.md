@@ -1,2 +1,4 @@
 # HelloWorld
-Demo in class
+
+Reasons I **love** GitHub!
+-Because Jake told me to
